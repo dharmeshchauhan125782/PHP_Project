@@ -1,0 +1,2 @@
+http://localhost/LuxuryStay-PHP-MySQL-React%20(2)/admin/dashboard.php
+http://localhost/LuxuryStay-PHP-MySQL-React%20(2)/rooms.php
